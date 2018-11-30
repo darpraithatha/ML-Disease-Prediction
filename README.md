@@ -32,13 +32,14 @@ The Objective of this Project is to take a closer look at the data and to predic
 
 Accordingly calculate the Insurance Premium for the following candidate.
 
-The Data set used here is taken from UCI ML Repository Data Set.
+The Data set used here is taken from UCI ML Repository [Data Set](http://archive.ics.uci.edu/ml/datasets/).
 
 Project Overview:
 
-Data Set Structure.
-Data Cleaning.
-Applying Machine Learning Algorithms
-Conclusion
+    1.Data Set Structure.
+    2.Data Cleaning.
+    3.Applying Machine Learning Algorithms
+    4.Conclusion
+
 We will predidict using 3 Algorithms Linear Regression, Random Forest, K Nearest Neighbors compare their accuracy and will conclude which one is the best amoung these 3)
 
