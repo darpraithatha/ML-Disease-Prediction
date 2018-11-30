@@ -1,7 +1,8 @@
 # ML-Disease-Prediction
 Diseas Covered as of Now:
-        1. Heart Diseade
-        2. Diabetes
+       
+       1. Heart Diseade
+       2. Diabetes
         
 ## 1. Heart Disease
 
