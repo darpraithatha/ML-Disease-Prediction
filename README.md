@@ -23,7 +23,7 @@ Project Overview:
     
 We will predidict using 2 Algorithms Linear Regression and Random Forest, compare their accuracy and will conclude which one is the best amoung this 2)
 
-## 2. Diabbetes
+## 2. Diabetes
 
 The Diabeties is a disease in which the body’s ability to produce or respond to the hormone insulin is impaired, resulting in abnormal metabolism of carbohydrates and elevated levels of glucose in the blood and urine.
 
